@@ -1,5 +1,6 @@
 # MergeCSV
 Java application for merging two CSV files with the same header and outputs merged file and conflicts record.
+Click [here][https://www.useloom.com/share/7d6b17ffaa074789a6de974f5fdadce4] for the demo of the program.
 
 ## Input & Output formats
 
